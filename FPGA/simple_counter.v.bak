@@ -1,0 +1,7 @@
+module simple_counter(input clock, output reg [3:0] counter_output);
+
+always @(posedge clock)
+ begin
+      counter_output <= counter_output + 4'h1;
+ end
+endmodule
