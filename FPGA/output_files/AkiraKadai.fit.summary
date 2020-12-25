@@ -1,15 +1,15 @@
-Fitter Status : Successful - Wed Dec 23 20:12:14 2020
+Fitter Status : Successful - Fri Dec 25 17:39:02 2020
 Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
 Revision Name : AkiraKadai
 Top-level Entity Name : AkiraKadai_top
 Family : Cyclone II
 Device : EP2C70F896C6
 Timing Models : Final
-Total logic elements : 48 / 68,416 ( < 1 % )
-    Total combinational functions : 48 / 68,416 ( < 1 % )
-    Dedicated logic registers : 28 / 68,416 ( < 1 % )
-Total registers : 28
-Total pins : 15 / 622 ( 2 % )
+Total logic elements : 131 / 68,416 ( < 1 % )
+    Total combinational functions : 131 / 68,416 ( < 1 % )
+    Dedicated logic registers : 85 / 68,416 ( < 1 % )
+Total registers : 85
+Total pins : 27 / 622 ( 4 % )
 Total virtual pins : 0
 Total memory bits : 0 / 1,152,000 ( 0 % )
 Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )

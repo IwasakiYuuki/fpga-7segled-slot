@@ -1,6 +1,4 @@
-module simple_counter(input clock, input stop, input reset, output reg [31:0] counter_output);
-
-reg state = 0;
+module simple_counter(input clock, input stop, input reset, output reg [31:0] counter_output, output reg state);
 
 always @(posedge clock, negedge reset)
  begin
